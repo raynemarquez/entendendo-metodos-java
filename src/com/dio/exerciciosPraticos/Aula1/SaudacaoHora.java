@@ -1,4 +1,4 @@
-package com.dio.exerciciosPraticos;
+package com.dio.exerciciosPraticos.Aula1;
 
 import java.util.Scanner;
 
